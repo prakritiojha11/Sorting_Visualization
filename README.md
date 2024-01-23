@@ -9,7 +9,8 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Link to the Sorting Visualization](https://github.com/prakritiojha11/Sorting_Visualization.git)
+[Link to the Sorting Visualization](https://prakritiojha11.github.io/Sorting_Visualization/)
+
 
 
 ![Bubble Sort](img/img1.png)
