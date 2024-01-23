@@ -9,7 +9,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-
+[Link to the Sorting Visualization](file:///C:/Users/Hp/OneDrive/Desktop/Sorting-Visualization-main/index.html)
 
 ![Bubble Sort](img/img1.png)
 *Description: Visualization of the Bubble Sort algorithm in action.*
