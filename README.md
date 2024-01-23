@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sorting Visualization
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
@@ -9,11 +9,16 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here](https://abhishekprakash5.github.io/Sorting-Visualization/)
 
-<img src="img/img1.png"> <br/>
-<img src="img/img2.png"> <br/>
-<img src="img/img3.png"> <br/>
+
+![Bubble Sort](img/img1.png)
+*Description: Visualization of the Bubble Sort algorithm in action.*
+
+![Selection Sort](img/img2.png)
+*Description: Visualization of the Selection Sort algorithm in action.*
+
+![Merge Sort](img/img3.png)
+*Description: Visualization of the Merge Sort algorithm in action.*
+
 =======
-# sortingvisualization
->>>>>>> 0ac8d6b9ec5be10c7208c3146502be45bd6a7fa9
+
