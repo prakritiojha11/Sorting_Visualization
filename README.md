@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sorting Visualization
 ### This is a simple visualization project made using javascript 
 - Bubble Sort 
@@ -13,3 +14,6 @@
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
 <img src="img/img3.png"> <br/>
+=======
+# sortingvisualization
+>>>>>>> 0ac8d6b9ec5be10c7208c3146502be45bd6a7fa9
