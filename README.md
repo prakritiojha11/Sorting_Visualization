@@ -9,6 +9,9 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
+[Link to the Sorting Visualization](https://github.com/prakritiojha11/Sorting_Visualization.git)
+
+
 ![Bubble Sort](img/img1.png)
 *Description: Visualization of the Bubble Sort algorithm in action.*
 
